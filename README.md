@@ -19,6 +19,16 @@ Python first; Go, Rust and Bash when the job needs it. Linux (Omarchy / Hyprland
 - **Offensive security & OSINT** — pentest automation, traffic and stream tooling, geolocation, recon
 - **Self-hosting** — NVR, media, file sync, reverse proxies: if it can run on my own hardware, it does
 
+## Worth playing
+
+**▶ [SP13KTRA — play it](https://killedbyapixel.github.io/SP13KTRA/)** — full-spectrum racing: eight anti-gravity circuits, eight rival craft, a procedural techno loop baked per track, real WebGL lighting and fog, all in 13 kilobytes. Frank Force's js13kGames 2026 entry, and the best argument I know that constraint breeds style.
+
+[Director's cut](https://killedbyapixel.github.io/SP13KTRA/) · [13k competition build](https://play.js13kgames.com/sp13ktra/) · [source](https://github.com/js13kGames/sp13ktra)
+
+Driving: W / left mouse to accelerate, A·D or mouse to steer, Shift or right mouse for turbo, Space or middle mouse to brake, M toggles music.
+
+---
+
 ## About the fork pile
 
 Most of my public repos are forks — things I read, patched, or ran to see how they work.
