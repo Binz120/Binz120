@@ -11,8 +11,6 @@ Python first; Go, Rust and Bash when the job needs it. Linux (Omarchy / Hyprland
 
 **[unit3d-themes](https://github.com/Binz120/unit3d-themes)** — Synthwave/cyberpunk CSS theme for UNIT3D private trackers, driven by the template's own custom properties, with a standalone preview page. Live: <https://binz120.github.io/unit3d-themes/>
 
-**[BeyondHD-Parser-CLI](https://github.com/Binz120/BeyondHD-Parser-CLI)** — Two CLI wrappers over the BeyondHD parser modules: scrape a release page into NFO / MediaInfo, or query the API by title, group and resolution.
-
 ---
 
 ## What I'm digging into
@@ -24,7 +22,7 @@ Python first; Go, Rust and Bash when the job needs it. Linux (Omarchy / Hyprland
 ## About the fork pile
 
 Most of my public repos are forks — things I read, patched, or ran to see how they work.
-That pile is a reading list, not a portfolio: the three projects above are the ones I wrote,
+That pile is a reading list, not a portfolio: the projects above are the ones I wrote,
 and the things I actually reach for live in my stars.
 
 ---
