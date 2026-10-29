@@ -5,14 +5,6 @@ Python first; Go, Rust and Bash when the job needs it. Linux (Omarchy / Hyprland
 
 ---
 
-## What I actually ship
-
-**[Rarchive](https://github.com/Binz120/Rarchive)**: Python CLI that archives any public subreddit to structured JSON via PRAW. Configuration from the environment, separate fetch and format layers, MIT, checked in CI.
-
-**[unit3d-themes](https://github.com/Binz120/unit3d-themes)**: synthwave and cyberpunk CSS theme for UNIT3D private trackers, driven by the template's own custom properties, with a standalone preview page. Live: <https://binz120.github.io/unit3d-themes/>
-
----
-
 ## What I'm digging into
 
 - **AI agents**: local model serving, agent harnesses, and the tooling that makes them useful on a desktop
