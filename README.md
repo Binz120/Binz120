@@ -5,6 +5,12 @@ Python first; Go, Rust and Bash when the job needs it. Linux (Omarchy / Hyprland
 
 ---
 
+## Shipping soon
+
+**PESForge** (alpha): a player editor for SP Football Life 2027 (PES 2021 engine) on Linux, with a Tkinter GUI and a headless CLI. Edits are patched into the game's own database and load the next time the game starts, so the game never has to be running: player abilities, skills and career data, clubs and squad numbers, all 980 coaches, club stadium assignment, and the 117 appearance fields, plus CSV roster import and export. Fully offline, no pip packages, every write backed up first. First alpha coming soon.
+
+---
+
 ## What I'm digging into
 
 - **AI agents**: local model serving, agent harnesses, and the tooling that makes them useful on a desktop
