@@ -7,7 +7,7 @@ Python first; Go, Rust and Bash when the job needs it. Linux (Omarchy / Hyprland
 
 ## Shipping soon
 
-**PESForge** (alpha): a player editor for SP Football Life 2027 (PES 2021 engine) on Linux, with a Tkinter GUI and a headless CLI. Edits are patched into the game's own database and load the next time the game starts, so the game never has to be running: player abilities, skills and career data, clubs and squad numbers, all 980 coaches, club stadium assignment, and the 117 appearance fields, plus CSV roster import and export. Fully offline, no pip packages, every write backed up first. First alpha coming soon.
+**PESForge** (alpha): a player and club database editor for five PES releases on Linux: SP Football Life 2027 / PES 2021, PES 2019, PES 2015, and the classic PES 5 and PES 6 option files, with a GTK4 desktop app and headless CLIs. Edits are patched into the game's own database and load the next time the game starts, so the game never has to be running: player abilities, skills and career data, clubs and squad numbers, coaches, club stadium assignment, plus CSV roster import and export. Fully offline, no pip packages, every write backed up first. Very early development: the source is now up at [github.com/Binz120/pesforge](https://github.com/Binz120/pesforge) and the first alpha is coming soon.
 
 ---
 
