@@ -16,6 +16,7 @@ Python first; Go, Rust and Bash when the job needs it. Linux (Omarchy / Hyprland
 - **AI agents**: local model serving, agent harnesses, and the tooling that makes them useful on a desktop
 - **Offensive security and OSINT**: pentest automation, traffic and stream tooling, geolocation, recon
 - **Own hardware**: NVR, media, file sync, reverse proxies. If it can run on my own machine, it does
+- **Old games**: modding them. A massive PES fan; the older the football game, the more interesting it is to take apart.
 
 ## About the fork pile
 
