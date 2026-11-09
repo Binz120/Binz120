@@ -4,7 +4,7 @@
 
 <h1>★ WELCOME TO BINZ120'S HOMEPAGE ★</h1>
 
-<h3>~ the 90s internet never died, it just moved here ~</h3>
+<h3>🐧 ~ the 90s internet never died, it just moved to Linux ~ 🐧</h3>
 
 <pre>
 ░▒▓█ ► ► ►  W E L C O M E  T O  M Y  H O M E P A G E  ◄ ◄ ◄ █▓▒░
@@ -24,13 +24,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=Binz120&label=VISITORS&color=ff00ff&style=flat" alt="visitor counter">
 
-<p><sub>Best viewed in Netscape Navigator 4.0 · 800×600 · Made with Notepad · Y2K compliant</sub></p>
+<p><sub>Best viewed in Netscape Navigator 4.0 for Linux · 800×600 · Made with vi · Y2K compliant</sub></p>
 
 </div>
 
 ---
 
-> **Hi, I'm Binz120.** Security research, self hosted servers, and small tools that scratch an itch. This page is my shrine to the dialup era: glitch art, dead email, dancing Sonic, and the beautiful chaos of the 90s web. No cookies. No tracking. No Web3. Just GIFs.
+> **Hi, I'm Binz120.** Security research, self hosted servers, and Linux every day. This page is my shrine to the dialup era: glitch art, dead email, dancing Sonic, and the beautiful chaos of the 90s web. No cookies. No tracking. No Web3. Just GIFs.
 
 ---
 
@@ -41,8 +41,10 @@
 | CPU | Pentium II 350 MHz |
 | RAM | 64 MB (upgraded!) |
 | Modem | 56K US Robotics |
-| OS | Windows 98 SE |
-| Browser | Netscape Navigator 4.0 |
+| OS | Slackware Linux 3.5 |
+| Kernel | 2.0.36 |
+| WM | AfterStep |
+| Browser | Netscape Navigator 4.0 for Linux |
 | Display | 800×600, 256 colors |
 
 ### 📼 NOW PLAYING
@@ -57,6 +59,7 @@
 
 ### 🔎 WHAT I'M DIGGING INTO
 
+- **Linux:** Omarchy and Hyprland every day; my servers run it too.
 - **AI agents:** local model serving, agent harnesses, and the tooling that makes them useful on a desktop.
 - **Offensive security and OSINT:** pentest automation, traffic and stream tooling, geolocation, recon.
 - **Own hardware:** NVR, media, file sync, reverse proxies. If it can run on my own machine, it does.
@@ -139,17 +142,17 @@ Most of my public repos are forks: things I read, patched, or ran to see how the
 
 | CARTOONS | GAMES | MUSIC | TECH |
 |---|---|---|---|
-| Sailor Moon, Dragon Ball Z, Rugrats, Pokémon, Digimon | Pokémon Red and Blue, Zelda: Ocarina of Time, Crash Bandicoot, Sonic, GoldenEye 007 | Nirvana, TLC, Backstreet Boys, Radiohead, Spice Girls | Windows 95, Windows 98, dialup, AIM, ICQ, GeoCities, Napster |
+| Sailor Moon, Dragon Ball Z, Rugrats, Pokémon, Digimon | Pokémon Red and Blue, Zelda: Ocarina of Time, Crash Bandicoot, Sonic, GoldenEye 007 | Nirvana, TLC, Backstreet Boys, Radiohead, Spice Girls | Slackware, Debian, Red Hat, SuSE, WindowMaker, AfterStep, X11, GCC, Apache, AIM, ICQ, GeoCities, Napster |
 
 ### MY TOP 8
 
-1. Sonic
-2. Bill Clinton
-3. The dialup tone
-4. Sailor Moon
-5. A fresh pack of Pokémon cards
-6. The Internet Archive
-7. My Pentium II
+1. Tux
+2. Linus Torvalds
+3. Sonic
+4. The dialup tone
+5. Slackware
+6. A fresh pack of Pokémon cards
+7. The Internet Archive
 8. Anyone who signs the guestbook
 
 ---
