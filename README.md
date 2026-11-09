@@ -142,7 +142,7 @@ Most of my public repos are forks: things I read, patched, or ran to see how the
 
 | CARTOONS | GAMES | MUSIC | TECH |
 |---|---|---|---|
-| Sailor Moon, Dragon Ball Z, Rugrats, Pokémon, Digimon | Pokémon Red and Blue, Zelda: Ocarina of Time, Crash Bandicoot, Sonic, GoldenEye 007 | Nirvana, TLC, Backstreet Boys, Radiohead, Spice Girls | Slackware, Debian, Red Hat, SuSE, WindowMaker, AfterStep, X11, GCC, Apache, AIM, ICQ, GeoCities, Napster |
+| Sailor Moon, Dragon Ball Z, Batman, Pokémon, Digimon | Pokémon Red and Blue, Zelda: Ocarina of Time, Crash Bandicoot, Sonic, GoldenEye 007 | Nirvana, Radiohead | Slackware, Debian, Red Hat, SuSE, WindowMaker, AfterStep, X11, GCC, Apache, AIM, ICQ, GeoCities, Napster |
 
 ### MY TOP 8
 
