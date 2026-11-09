@@ -138,6 +138,19 @@ Most of my public repos are forks: things I read, patched, or ran to see how the
 
 ---
 
+## 🕹️ THE 3D ZONE
+
+<div align="center">
+
+<a href="https://binz120.github.io/threezone/"><img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/threezone.webp" width="600" alt="The 3D zone"></a>
+
+<p><b><a href="https://binz120.github.io/threezone/">ENTER THE 3D ZONE</a></b><br>
+<sub>A Three.js wireframe world. Move your mouse. Best viewed in Netscape.</sub></p>
+
+</div>
+
+---
+
 ## 📼 90s FAVORITES
 
 | CARTOONS | GAMES | MUSIC | TECH |
