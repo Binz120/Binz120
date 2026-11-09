@@ -4,7 +4,7 @@
 
 <h1>★ WELCOME TO BINZ120'S HOMEPAGE ★</h1>
 
-<h3>🐧 ~ the 90s internet never died, it just moved to Linux ~ 🐧</h3>
+<h3>🐧 ~ the 90s internet never died, it just moved here ~ 🐧</h3>
 
 <pre>
 ░▒▓█ ► ► ►  W E L C O M E  T O  M Y  H O M E P A G E  ◄ ◄ ◄ █▓▒░
