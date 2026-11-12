@@ -53,7 +53,7 @@ He was asked why 640&times;480 and 16 colours. His answer: God told him it **"is
 
 ## 🌌 THE GIF WALL
 
-<sub>Twenty GIFs, all of Terry. Sources and credits at the bottom.</sub>
+<sub>Nineteen GIFs, all of Terry. Sources and credits at the bottom.</sub>
 
 <table width="100%">
 <tr>
