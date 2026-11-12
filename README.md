@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/assets/templeos-banner.webp" width="1100" alt="TEMPLE OS — God's official temple, 640x480, 16 colors">
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/assets/templeos-banner.webp" width="100%" alt="TEMPLE OS — God's official temple, 640x480, 16 colors">
 
 <br>
 
@@ -55,94 +55,94 @@ He was asked why 640&times;480 and 16 colours. His answer: God told him it **"is
 
 <sub>Twenty GIFs, all of Terry. Sources and credits at the bottom.</sub>
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/grok-vs-god.gif" width="280" alt="I asked Grok, I asked ChatGPT, yeah well I asked God"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/grok-vs-god.gif" width="230" alt="I asked Grok, I asked ChatGPT, yeah well I asked God"><br>
 <sub><b>I ASKED GOD</b><br>"I asked Grok. I asked ChatGPT."<br>"Yeah, well, I asked God."</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/use-templeos-now.gif" width="280" alt="You should use TempleOS... NOW"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/use-templeos-now.gif" width="230" alt="You should use TempleOS... NOW"><br>
 <sub><b>YOU SHOULD USE TEMPLEOS</b><br>...NOW</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/underinvested.gif" width="280" alt="You are underinvested in TempleOS"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/underinvested.gif" width="230" alt="You are underinvested in TempleOS"><br>
 <sub><b>UNDERINVESTED</b><br>a portfolio of one asset</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/templeos-desktop.gif" width="280" alt="TempleOS desktop"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/templeos-desktop.gif" width="230" alt="TempleOS desktop"><br>
 <sub><b>THE TEMPLE ITSELF</b><br>640x480 · sixteen colours</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/holy-spirit-game.gif" width="280" alt="The Holy Spirit can puppet you in a game"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/holy-spirit-game.gif" width="230" alt="The Holy Spirit can puppet you in a game"><br>
 <sub><b>THE HOLY SPIRIT</b><br>can puppet you in a game</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/wobble.gif" width="280" alt="Terry wobbling"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/wobble.gif" width="230" alt="Terry wobbling"><br>
 <sub><b>WOBBLE</b><br>no further comment</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/good-to-be-the-king.gif" width="280" alt="It's good to be the king"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/good-to-be-the-king.gif" width="230" alt="It's good to be the king"><br>
 <sub><b>IT'S GOOD TO BE THE KING</b><br>then the third panel</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/terry-dance.gif" width="280" alt="Terry dance"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/terry-dance.gif" width="230" alt="Terry dance"><br>
 <sub><b>TERRY DANCE</b><br>datamoshed into the grid</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/lock-in.gif" width="280" alt="Lock in"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/lock-in.gif" width="230" alt="Lock in"><br>
 <sub><b>LOCK IN</b><br>ten years, full time, one task</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/telephone.gif" width="280" alt="Terry on the telephone"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/telephone.gif" width="230" alt="Terry on the telephone"><br>
 <sub><b>ON THE TELEPHONE</b><br>he made a lot of calls</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/nice-guy.gif" width="280" alt="You're a nice guy, a really nice guy"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/nice-guy.gif" width="230" alt="You're a nice guy, a really nice guy"><br>
 <sub><b>NICE GUY</b><br>"you're a nice guy. a really nice guy."</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/car-phone.gif" width="280" alt="Terry in a car"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/car-phone.gif" width="230" alt="Terry in a car"><br>
 <sub><b>THE CAR PHONE</b><br>broadcasting from somewhere</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/hands-on-head.gif" width="280" alt="Terry with hands on his head"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/hands-on-head.gif" width="230" alt="Terry with hands on his head"><br>
 <sub><b>HANDS ON HEAD</b><br>the weight of the temple</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/cursed-closeup.gif" width="280" alt="Close-up of Terry"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/cursed-closeup.gif" width="230" alt="Close-up of Terry"><br>
 <sub><b>CLOSE-UP, GLITCHED</b><br>compressed until he's a signal</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/watching-milk.gif" width="280" alt="Terry Davis is watching. milk."><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/watching-milk.gif" width="230" alt="Terry Davis is watching. milk."><br>
 <sub><b>HE IS WATCHING</b><br>milk.</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/static-prophet.gif" width="280" alt="Terry as static"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/static-prophet.gif" width="230" alt="Terry as static"><br>
 <sub><b>STATIC PROPHET</b><br>the face he became online</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/i-like-elephants.gif" width="280" alt="I like elephants"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/i-like-elephants.gif" width="230" alt="I like elephants"><br>
 <sub><b>I LIKE ELEPHANTS</b><br>the 16-colour elephant</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/16-color-elephant.gif" width="280" alt="TempleOS and the elephant"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/16-color-elephant.gif" width="230" alt="TempleOS and the elephant"><br>
 <sub><b>THE ORB</b><br>TempleOS · CIA · elephant · all of it</sub>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="3">
-<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/we-miss-you-terry.gif" width="360" alt="We miss you Terry"><br>
+<img src="https://raw.githubusercontent.com/Binz120/binz120/main/gifs/we-miss-you-terry.gif" width="300" alt="We miss you Terry"><br>
 <sub><b>WE MISS YOU, TERRY</b></sub>
 </td>
 </tr>
